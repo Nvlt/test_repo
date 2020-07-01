@@ -1,2 +1,2 @@
 let myTeam = "Alexis, Kayleigh";
-console.log;
+console.log(myTeam);
